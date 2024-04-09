@@ -1,4 +1,3 @@
-print ('testando')
 menu = """
 
 [d] Depositar
