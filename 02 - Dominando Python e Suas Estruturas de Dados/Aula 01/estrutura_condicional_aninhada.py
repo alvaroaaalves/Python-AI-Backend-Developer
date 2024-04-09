@@ -1,6 +1,7 @@
 conta_normal = False
 conta_universitaria = False
-conta_especial = True
+conta_especial = False
+
 
 saldo = 2000
 saque = 1500
